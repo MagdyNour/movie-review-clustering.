@@ -1,0 +1,16 @@
+# Dataset — keep local, do not upload
+data/*.csv
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+.env
